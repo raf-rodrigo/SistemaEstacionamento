@@ -1,0 +1,15 @@
+/home/rafael/RiderProjects/Curso_Dio/Pottencial.Net_developer/SistemaEstacionamento/bin/Debug/net8.0/SistemaEstacionamento
+/home/rafael/RiderProjects/Curso_Dio/Pottencial.Net_developer/SistemaEstacionamento/bin/Debug/net8.0/SistemaEstacionamento.deps.json
+/home/rafael/RiderProjects/Curso_Dio/Pottencial.Net_developer/SistemaEstacionamento/bin/Debug/net8.0/SistemaEstacionamento.runtimeconfig.json
+/home/rafael/RiderProjects/Curso_Dio/Pottencial.Net_developer/SistemaEstacionamento/bin/Debug/net8.0/SistemaEstacionamento.dll
+/home/rafael/RiderProjects/Curso_Dio/Pottencial.Net_developer/SistemaEstacionamento/bin/Debug/net8.0/SistemaEstacionamento.pdb
+/home/rafael/RiderProjects/Curso_Dio/Pottencial.Net_developer/SistemaEstacionamento/obj/Debug/net8.0/SistemaEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafael/RiderProjects/Curso_Dio/Pottencial.Net_developer/SistemaEstacionamento/obj/Debug/net8.0/SistemaEstacionamento.AssemblyInfoInputs.cache
+/home/rafael/RiderProjects/Curso_Dio/Pottencial.Net_developer/SistemaEstacionamento/obj/Debug/net8.0/SistemaEstacionamento.AssemblyInfo.cs
+/home/rafael/RiderProjects/Curso_Dio/Pottencial.Net_developer/SistemaEstacionamento/obj/Debug/net8.0/SistemaEstacionamento.csproj.CoreCompileInputs.cache
+/home/rafael/RiderProjects/Curso_Dio/Pottencial.Net_developer/SistemaEstacionamento/obj/Debug/net8.0/SistemaEstacionamento.sourcelink.json
+/home/rafael/RiderProjects/Curso_Dio/Pottencial.Net_developer/SistemaEstacionamento/obj/Debug/net8.0/SistemaEstacionamento.dll
+/home/rafael/RiderProjects/Curso_Dio/Pottencial.Net_developer/SistemaEstacionamento/obj/Debug/net8.0/refint/SistemaEstacionamento.dll
+/home/rafael/RiderProjects/Curso_Dio/Pottencial.Net_developer/SistemaEstacionamento/obj/Debug/net8.0/SistemaEstacionamento.pdb
+/home/rafael/RiderProjects/Curso_Dio/Pottencial.Net_developer/SistemaEstacionamento/obj/Debug/net8.0/SistemaEstacionamento.genruntimeconfig.cache
+/home/rafael/RiderProjects/Curso_Dio/Pottencial.Net_developer/SistemaEstacionamento/obj/Debug/net8.0/ref/SistemaEstacionamento.dll
